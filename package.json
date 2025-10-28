@@ -19,6 +19,7 @@
     "initVersion": "7.39.3"
   },
   "dependencies": {
+    "@t3-oss/env-nextjs": "^0.13.8",
     "next": "^16.0.0"
   }
 }
