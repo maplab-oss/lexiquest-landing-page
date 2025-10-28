@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.felixsebastian.lexiquest",
+            "sha256_cert_fingerprints": [
+                "77:D8:B4:DA:02:23:3F:94:A6:6B:B0:F3:0D:1F:52:AE:D7:A7:60:08:14:2E:2F:B1:5C:77:58:B7:83:6C:83:FF"
+            ]
+        }
+    }
+]
